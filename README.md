@@ -11,6 +11,8 @@ A basic chatbot frontend built using HTML, CSS.
 - HTML
 - CSS
 
+- Live demo: https://yashswarn.github.io/chat_bot/
+
 ## 📦 How to Run
 ```bash
 git clone https://github.com/yashswarn/chat_bot.git
